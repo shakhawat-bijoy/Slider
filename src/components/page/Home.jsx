@@ -1,10 +1,10 @@
 import React from 'react'
-import Banner from '../Banner'
+import SliderEle from '../SliderEle'
 
 const Home = () => {
   return (
     <div>
-        <Banner/>
+        <SliderEle/>
     </div>
   )
 }

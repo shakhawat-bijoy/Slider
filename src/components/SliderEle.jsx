@@ -7,7 +7,7 @@ import p4 from "/p4.jpg";
 import Slider from 'react-slick';
 import { FaMinus, FaPlus } from 'react-icons/fa';
 
-const Banner = () => {
+const SliderEle = () => {
 
   let [number, setNumber] = useState(1)
 
@@ -89,4 +89,4 @@ const Banner = () => {
   )
 }
 
-export default Banner
+export default SliderEle
